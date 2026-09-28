@@ -13,7 +13,7 @@ body {
     line-height: 1.6;
     margin: 0;
     color: #fff700;             /* marrom escuro (texto) */
-    background-color: #c0ea55;  /* creme (fundo) */
+    background-color: #e3b783;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
@@ -55,7 +55,7 @@ blockquote {
     border-left: 4px solid #A0521A;
     margin: 0 0 16px;
     padding: 8px 16px;
-    background-color: #FDEEDC;
+    background-color: #e3b783;
 }
 
 /* ===== Cards de destaque (Flexbox) ===== */
